@@ -1,0 +1,14 @@
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.AssemblyInfoInputs.cache
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.AssemblyInfo.cs
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.csproj.CoreCompileInputs.cache
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\bin\Debug\net8.0\DevolverCadena.exe
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\bin\Debug\net8.0\DevolverCadena.deps.json
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\bin\Debug\net8.0\DevolverCadena.runtimeconfig.json
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\bin\Debug\net8.0\DevolverCadena.dll
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\bin\Debug\net8.0\DevolverCadena.pdb
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.dll
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\refint\DevolverCadena.dll
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.pdb
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\DevolverCadena.genruntimeconfig.cache
+D:\EjerciciosCodeWarrios\DevolverCadena\DevolverCadena\obj\Debug\net8.0\ref\DevolverCadena.dll

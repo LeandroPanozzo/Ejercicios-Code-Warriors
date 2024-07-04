@@ -1,0 +1,14 @@
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.AssemblyInfoInputs.cache
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.AssemblyInfo.cs
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.csproj.CoreCompileInputs.cache
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\bin\Debug\net8.0\Contar las letras y los dígitos.exe
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\bin\Debug\net8.0\Contar las letras y los dígitos.deps.json
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\bin\Debug\net8.0\Contar las letras y los dígitos.runtimeconfig.json
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\bin\Debug\net8.0\Contar las letras y los dígitos.dll
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\bin\Debug\net8.0\Contar las letras y los dígitos.pdb
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.dll
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\refint\Contar las letras y los dígitos.dll
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.pdb
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\Contar las letras y los dígitos.genruntimeconfig.cache
+D:\EjerciciosCodeWarrios\Contar las letras y los dígitos\Contar las letras y los dígitos\obj\Debug\net8.0\ref\Contar las letras y los dígitos.dll

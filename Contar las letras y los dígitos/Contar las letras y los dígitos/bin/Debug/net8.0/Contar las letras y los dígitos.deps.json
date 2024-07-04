@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contar las letras y los dígitos/1.0.0": {
+        "runtime": {
+          "Contar las letras y los dígitos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contar las letras y los dígitos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
